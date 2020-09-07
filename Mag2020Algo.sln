@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mag2020Algo", "Mag2020Algo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContestTaskA", "ContestTaskA\ContestTaskA.csproj", "{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContestTaskB", "ContestTaskB\ContestTaskB.csproj", "{150B0C22-001B-4B2E-B628-DAE0159B6B67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150B0C22-001B-4B2E-B628-DAE0159B6B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B0C22-001B-4B2E-B628-DAE0159B6B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B0C22-001B-4B2E-B628-DAE0159B6B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B0C22-001B-4B2E-B628-DAE0159B6B67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
