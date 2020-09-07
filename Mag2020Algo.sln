@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mag2020Algo", "Mag2020Algo\Mag2020Algo.csproj", "{2E6149BB-17D3-4F5E-BD3C-905F73BA1A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContestTaskA", "ContestTaskA\ContestTaskA.csproj", "{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6149BB-17D3-4F5E-BD3C-905F73BA1A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6149BB-17D3-4F5E-BD3C-905F73BA1A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6149BB-17D3-4F5E-BD3C-905F73BA1A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6149BB-17D3-4F5E-BD3C-905F73BA1A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6B5D9E-E53C-4B9A-8CB6-B1C9D6204D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38934705-33C3-4B4F-AD53-3D8A728AAC87}
+	EndGlobalSection
+EndGlobal
